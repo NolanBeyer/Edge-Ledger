@@ -135,3 +135,23 @@ img {
 .cases img:hover {
   opacity: 0.7;
 }
+
+.team img {
+  border-radius: 50%;
+}
+
+/* Callback From */
+
+.callback-form {
+  width: 100%;
+  padding: 20px 0;
+}
+
+.callback-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.callback-form .form-control {
+  margin-bottom: 15px;
+}
